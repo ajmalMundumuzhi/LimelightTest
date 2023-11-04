@@ -1,0 +1,266 @@
+body{
+  margin: 0;
+}
+
+.nav-item{
+  display: block;
+  padding: 0.5rem 1rem;
+  color: black;
+  text-decoration: none;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+  padding-left: 10px 0 10 0;
+}
+.nav-underline .nav-link {
+  padding-right: 52px;
+  padding-left: 71px;
+  border-bottom: var(--bs-nav-underline-border-width) solid transparent;
+}
+.carousel-item {
+  width: 100%;
+  height: 406px;
+  border: solid 1px black;
+  background: black;
+}
+.sliding-image{
+  width: 100%;
+  border-radius: 41px;
+}
+.l-logo{
+  width: 445px;
+  float: left;
+  margin: 52px;
+}
+
+.nav-home{
+  font-size: 20px;
+  margin-top: 16px;
+}
+.nav-box{
+  width: 156px;
+  height: 200px;
+  float: left;
+  margin-top: 278px;
+  margin-left: 774px;
+}
+.logo{
+  width: 500px;
+  padding: 27px;
+  margin-left: 426px;
+}
+.sinf{
+  float: left;
+  margin-left: 591px;
+  color: white;
+  margin-top: 31px;
+}
+.box{
+  width: 486px;
+  height: 335px;
+  background: white;
+  border: solid 1px wheat;
+  margin: 22px 0 20px 100px;
+  border-radius: 25px;
+}
+.imag{
+  width: 100%;
+  height: 160px;
+
+}
+.short{
+  width: 100%;
+  height: 175px;
+
+}
+.person{
+  width: 55px;
+  height: 25px;
+  border-radius: 95px;
+  margin: 10px;
+}
+.d-block{
+  position: absolute;
+  width: 514px;
+  height: 406px;
+  border-radius: 42px;
+}
+.simg{
+  float: right;
+  width: 58px;
+  margin-right: 800px;
+  margin-top: 45px;
+  border-radius: 103px;
+}
+.sname{
+  float: right;
+  margin-right: 384px;
+  margin-top: -70px;
+  color: wheat;
+}
+.subject{
+  color: white;
+  float: right;
+  margin-top: 20px;
+  margin-right: 556px;
+}
+.section{
+  width: 10px;
+  height: 20px;
+  float: right; 
+}
+.card{
+  width: 402px;
+  float: left;
+  margin: 25px 0 0 0;
+}
+.image-box{
+  width: auto;
+  height: auto;
+}
+.box-photo{
+  width: 40px;
+  border-radius: 69px;
+  float: left;
+}
+.box-name{
+  font-size: 15px;
+    float: right;
+    margin-right: 80px;
+    margin-top: 10px;
+}
+.ancer{
+  text-decoration: none;
+  color: black;
+}
+.btn-col{
+  text-decoration: none;
+  border: none;
+  color: black;
+  width: 9rem;
+  float: left;
+  margin-left: 10px;
+  border-radius: 25px;
+  margin-top: 10px;
+}
+.btn-box{
+text-decoration: none;
+    color: black;
+    width: 8rem;
+    float: left;
+    margin-left: 10px;
+    border-radius: 25px;
+    margin-top: 10px;
+}
+
+.magazineimg{
+  
+  width: auto;
+  height: 500px;
+  border: solid 1px black;
+}
+.readimg{
+width: auto;
+height: auto;
+border: solid 1px black;
+float: left;
+margin-left: 268px;
+}
+.readtext{
+  width: 945px;
+  height: auto;
+  border: solid 1px black;
+  float: left;
+  margin-left: 43px;
+  margin-top: 15px;
+  ALIGN-ITEMS: center;
+}
+.reading-image{
+  width: auto;
+  height: auto;
+}
+.read-head{
+  float: left;
+  margin-left: 56px;
+  margin-top: 15px;
+}
+.read-content{
+  float: left;
+  margin-left: 10px;
+  margin-top: 30px;
+}
+.footer{   
+    background: black;
+    width: 100%;
+    height: 382px;
+    float: left;
+    margin-top: 70px;
+}
+.footer-logo{
+  width: 345px;
+  float: left;
+  margin-left: 224px;
+  margin-top: 132px;
+}
+
+.footer-button{
+  background: lightblue;
+  width: 316px;
+  height: 50px;
+  border: none;
+  border-radius: 25px;
+  float: left;
+  margin-top: 236px;
+  margin-left: -320px;
+}
+.helpcont{
+  width: 182px;
+  height: 255px;
+  float: left;
+  margin-top: 127px;
+  margin-left: 52px;
+}
+.text-us{
+    width: 1250px;
+    height: 600px;
+    float: left;
+    margin-left: 123px;
+    margin-top: 33px;
+    padding: 46px;
+    border: solid 1px gray;
+}
+.btn-style{
+  width: 150px;
+  border: none;
+  background: none;
+}
+.btn-post{
+  width: 150px;
+  height: 50px;
+  background: white;
+  border: none;
+  float: left;
+  margin-left: 10px;
+  margin-top: -310px;
+  border-radius: 25px;
+}
+.btn-post:hover{
+  background: red;
+}
+.shia-logo{
+  width: 304px;
+  float: left;
+  margin-top: 114px;
+  margin-left: 42px;
+}
+.blank{
+  margin-top: 71px;
+  width: 548px;
+  float: left;
+  margin-left: 482px;
+}
+.slide-box{
+  width: 200px;
+  height: 500px;
+  background: red;
+  float: right;
+  margin-top: 10px;
+}
