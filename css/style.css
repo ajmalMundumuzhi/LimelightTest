@@ -158,18 +158,18 @@ text-decoration: none;
   border: solid 1px black;
 }
 .readimg{
-width: auto;
-height: auto;
-border: solid 1px black;
-float: left;
-margin-left: 268px;
-}
-.readtext{
-  width: 945px;
+  width: auto;
   height: auto;
   border: solid 1px black;
   float: left;
-  margin-left: 43px;
+  margin-left: 494px;
+}
+.readtext{
+  width: 1009px;
+  height: auto;
+  border: solid 1px black;
+  float: left;
+  margin-left: 273px;
   margin-top: 15px;
   ALIGN-ITEMS: center;
 }
