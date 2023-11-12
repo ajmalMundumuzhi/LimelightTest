@@ -106,13 +106,14 @@ body{
   float: right; 
 }
 .card{
-  width: 402px;
+  width: auto;
+  height: 600px;
   float: left;
-  margin: 25px 0 0 0;
+  margin: 25px 0 0 0; 
 }
 .image-box{
-  width: auto;
-  height: auto;
+  width: 100%;
+  height: 300px;
 }
 .box-photo{
   width: 40px;
