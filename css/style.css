@@ -1,6 +1,9 @@
 body{
   margin: 0;
 }
+p{
+  font-size: 25px;
+}
 
 .nav-item{
   display: block;
